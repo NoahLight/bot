@@ -1,14 +1,14 @@
 <?php
 ///
 #màu sắc
-$res="\033[1;3m";//trắbg
+$res="\033[1;3m";//putih 
 $red="\033[1;3;31m";//đỏ
 $blud="\033[1;3;34m";///blu
 $xanhnc="\033[1;3;36m";//xanh nước
 $tim="\033[1;3;35m"; ///tím
 $green="\033[1;3;32m";//xanh lá
 $yellow="\033[1;3;33m";///vàng,1/2 đỏ
-$white= "\033[1;3;37m";//trắng
+$white= "\033[1;3;37m";//putih
 $logo= "\033[1;3;39m";// đỏ
 
 sleep(5);
